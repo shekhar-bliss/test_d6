@@ -3,3 +3,9 @@ sites/default/private
 sites/default/settings.php
 cache/
 files/
+
+# Eclipse-specific
+.project
+.metadata
+# PDT-specific
+.buildpath
